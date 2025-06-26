@@ -1,0 +1,54 @@
+{
+  "students": [
+    {
+      "id": "f4d7",
+      "name": "Haris",
+      "age": 21
+    },
+    {
+      "id": "2117",
+      "name": "Aleee",
+      "age": 20
+    }
+  ],
+  "attendance": [
+    {
+      "id": "3eee",
+      "studentId": "f4d7",
+      "date": "2025-06-12",
+      "status": "present"
+    },
+    {
+      "id": "e8c3",
+      "studentId": null,
+      "date": "2025-06-26",
+      "status": "absent"
+    },
+    {
+      "id": "0ac9",
+      "studentId": "2117",
+      "date": "2025-06-26",
+      "status": "present"
+    }
+  ],
+  "marks": [
+    {
+      "id": "8797",
+      "studentId": "f4d7",
+      "subject": "English",
+      "marks": 90
+    },
+    {
+      "id": "9b77",
+      "studentId": "f4d7",
+      "subject": "Math",
+      "marks": 70
+    },
+    {
+      "id": "9480",
+      "studentId": "f4d7",
+      "subject": "Science",
+      "marks": 80
+    }
+  ]
+}
